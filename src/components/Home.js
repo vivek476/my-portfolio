@@ -1,8 +1,8 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from 'react-icons/fa';
-import resumePDF from '../assets/resume.pdf.pdf'; // Make sure this file exists
-import profileImg from '../assets/profile.jpg.jpg'; // ✅ Your profile picture
+import SS_Resume from '../assets/SS_Resume.pdf.pdf'; // Make sure this file exists
+import VivekProfile from '../assets/VivekProfile.jpg.jpg'; // ✅ Your profile picture
 import '../App.css';
 
 export default function Home() {
@@ -17,22 +17,22 @@ export default function Home() {
         {/* 👤 Profile Image */}
         <div className="profile-wrapper mb-4">
           <img
-            src={profileImg}
-            alt="Avijit Gorai"
+            src={VivekProfile}
+            alt="Vivek Solanki"
             className="profile-img shadow"
           />
         </div>
 
         <h1 className="display-4 fw-bold mb-3 animate-fade">
-          Hi, I’m <span className="highlight-name">Avijit Gorai</span>
+          Hi, I’m <span className="highlight-name">Vivek Solanki</span>
         </h1>
 
         <h2 className="typing-text mb-4 fs-4">
           <TypeAnimation
             sequence={[
-              'Full-Stack Developer',
+              'Intern Full-Stack Developer',
               2000,
-              'React.js & .NET Core Specialist',
+              'Full-Stack Developer | React.js & .NET Core Specialist',
               2000,
               'Cloud & API Integrator',
               2000,
@@ -46,8 +46,8 @@ export default function Home() {
         </h2>
 
         <a
-          href={resumePDF}
-          download="Avijit_Gorai_Resume.pdf"
+          href={SS_Resume}
+          download="SS_Resume.pdf"
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />

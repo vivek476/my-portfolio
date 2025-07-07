@@ -14,8 +14,9 @@ function Summary() {
     >
       <h2 className="section-title mb-4">Summary</h2>
       <p className="summary-text lead">
-        Aspiring Junior Software Engineer with 1 year of hands-on experience in full-stack development at Shiwansh Solutions. Proficient in designing, developing, and deploying scalable web applications using .NET Core and React, with a focus on core modules like Admin, Employee, and Employer. Passionate about leveraging modern frameworks and clean coding practices to deliver efficient, maintainable, and user-friendly software solutions.
+        Aspiring .NET Developer Intern with 1 year of practical experience in full-stack development at <strong>Shiwansh Solutions</strong>. Skilled in building and deploying scalable web applications using <strong>.NET Core</strong> and <strong>React</strong>, with a focus on core modules such as Admin, Employee, and Employer. Dedicated to leveraging modern frameworks, clean code principles, and best practices to create efficient, maintainable, and user-centric software solutions.
       </p>
+
     </motion.section>
   );
 }

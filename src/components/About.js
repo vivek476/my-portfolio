@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import profileImg from '../assets/Avi.jpg';
+import profileImg from '../assets/Office.jpg';
 
 function About() {
   return (
@@ -14,23 +14,20 @@ function About() {
               src={profileImg}
               alt="Profile"
               className="rounded-circle shadow"
-              style={{ width: '200px', height: '200px', objectFit: 'cover' }}
+              style={{ width: '300px', height: '300px', objectFit: 'cover' }}
             />
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3">Junior Software Engineer | Full Stack Developer</h4>
+              <h4 className="text-dark mb-3">.NET Developer Intern | Full Stack Developer (React & .NET)</h4>
               <p className="text-muted">
-                I’m a passionate full-stack developer with hands-on experience in designing and developing web applications using <strong>.NET Core</strong>, <strong>React.js</strong>, <strong>Redux</strong>, <strong>Bootstrap</strong>, <strong>Entity Framework</strong>, and <strong>LINQ</strong>. I currently work at <strong>Shiwansh Solutions</strong> where I contribute to scalable module-based solutions including Admin, Employee, and Employer features.
+                I’m an intern developer at <strong>Shiwansh Solutions</strong>, where I focus on designing and developing web applications using <strong>.NET Core</strong>, <strong>React.js</strong>, <strong>Bootstrap</strong>, and <strong>SQL</strong>. My work involves building scalable, modular solutions for key features such as Admin, Employee, and Employer modules.
               </p>
               <p className="text-muted">
-                During my internship at CodeSphere Pvt. Ltd., I focused on backend development using .NET Core and gained real-world experience in building RESTful APIs and managing database systems.
-              </p>
-              <p className="text-muted">
-                I'm also proficient with tools like <strong>Git</strong>, <strong>Amazon EC2</strong>, and <strong>Amazon S3</strong>, and have strong foundations in C#, JavaScript, HTML5, and CSS3.
+                I'm also proficient with tools like <strong>Git</strong>, and have strong foundations in C#, JavaScript, HTML5, and CSS3.
               </p>
               <p className="text-muted mb-0">
-                My goal is to build efficient, secure, and maintainable software that delivers value to users. I’m continuously learning, exploring new tech, and growing as a developer.
+                My goal is to develop efficient, secure, and maintainable software that delivers real value to users. I’m committed to continuous learning, exploring emerging technologies, and growing both technically and professionally as a developer.
               </p>
             </div>
           </div>

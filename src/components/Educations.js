@@ -6,27 +6,27 @@ import '../App.css';
 const educationList = [
   {
     title: "MASTER OF COMPUTER APPLICATION",
-    institution: "CHANDIGARH UNIVERSITY • PUNJAB",
+    institution: "RGPV UNIVERSITY • BHOPAL, MADHYA PRADESH",
     year: "2024",
-    description: "Awarded full scholarship for 2 semesters due to grades."
+    description: "Successfully completed Master's degree with outstanding academic performance and a strong overall grade."
   },
   {
-    title: "BACHELOR OF COMPUTER APPLICATIONS",
-    institution: "BANWRILAL BHALOTIA COLLEGE • ASANSOL, WEST BENGAL",
+    title: "BACHELOR OF SCIENCE IN COMPUTER SCIENCE",
+    institution: "DAVV UNIVERSITY • INDORE, MADHYA PRADESHL",
     year: "2022",
-    description: "Graduated with a CGPA of 9.41."
+    description: "Graduated with a CGPA of 8.07."
   },
   {
     title: "HIGHER SECONDARY EDUCATION",
-    institution: "Minor in Science • MITHANI HIGH SCHOOL • ASANSOL, WESTBENGAL",
+    institution: "JAYSIS CONVENT HIGHER SECONDARY SCHOOL • MANAWAR, MADHYA PRADESH",
     year: "2019",
-    description: "Completed with focus in science stream."
+    description: "Completed with a strong academic focus in the Science stream, emphasizing core scientific principles and analytical skills."
   },
   {
     title: "SECONDARY EDUCATION",
-    institution: "SUBHASPALLY BIDYANIKETAN • BURNPUR, ASANSOL",
+    institution: "PERFECT ACADEMY • MANAWAR, MADHYA PRADESH",
     year: "2017",
-    description: "Completed secondary school education successfully."
+    description: "Completed secondary education through CBSE with strong academic performance."
   }
 ];
 

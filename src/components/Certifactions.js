@@ -6,25 +6,16 @@ import '../App.css';
 const certifications = [
   {
     title: "ASP.NET Core MVC",
-    issuer: "INFOSYS",
+    issuer: "Shiwansh Solutions",
     year: "2024",
-    description:
-      "Comprehensive training on scalable web apps using MVC. Topics: routing, controllers, views, model binding, data annotations, form submission, session/state management, authentication, dependency injection, middleware, and Entity Framework Core integration."
+    description: "Completed end-to-end web app projects using MVC pattern, covering both front-end and back-end development with Entity Framework Core, authentication, and state management."
   },
   {
-    title: "React JS",
-    issuer: "INFOSYS",
-    year: "2022",
-    description:
-      "Covered React core concepts including component architecture, state/props, hooks, lifecycle, API integration, routing, form handling, and UI responsiveness."
+    title: "Software Testing",
+    issuer: "PHN Technology Pvt. Ltd.",
+    year: "2023",
+    description: "Focused on software testing fundamentals such as manual testing, test planning, bug reporting, and hands-on exposure to automation tools like Selenium for UI testing."
   },
-  {
-    title: "DITA",
-    issuer: "YOUTH COMPUTER CENTER",
-    year: "2017",
-    description:
-      "Intro to computer fundamentals: Windows, MS Office, internet, email, data management, and troubleshooting for academic/professional use."
-  }
 ];
 
 function Certification() {

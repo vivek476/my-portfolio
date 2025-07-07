@@ -4,26 +4,17 @@ import '../App.css';
 
 const projectList = [
   {
-    title: 'SHOUSING MANAGEMENT',
-    duration: 'Feb 2025 – May 2025',
-    company: 'Shiwansh Solutions',
+    title: 'Employee Management System',
+    duration: 'Jan 2024 – May 2024',
+    college: 'MRSC',
     description:
-      'A web-based application to streamline residential society operations. Supports categorization by number of houses, 24/7 complaint logging, automated issue tracking, member-based address search, and property listings. Aimed at efficient digital community interaction.',
+      'A system to manage employee records, roles, and performance efficiently through a centralized web interface. Employees can be added, updated, and deleted, with role-based access control for Admin and Employee modules.',
     responsibilities:
-      'Frontend development, backend development, and database design.'
-  },
-  {
-    title: 'Employee Payroll System',
-    duration: 'July 2024 – Nov 2024',
-    company: 'Shiwansh Solutions',
-    description:
-      'Manages employee data including personal details, time-off tracking, salary generation, and role-based access. Admins control system setup while employees securely manage their own records.',
-    responsibilities:
-      'Frontend development, backend development, and database design.'
+      'Frontend development, backend development, and database design using Android Studio, Java, and XML.'
   },
   {
     title: 'JOB PORTAL SYSTEM',
-    duration: 'Mar 2024 – Jun 2024',
+    duration: 'July 2024 – Sept 2024',
     company: 'Shiwansh Solutions',
     description:
       'An online platform that connects job seekers with employers. Job seekers can register, search, and apply for jobs. Employers post job openings and manage hiring. Built for efficient two-way interaction.',

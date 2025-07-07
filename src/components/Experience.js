@@ -5,19 +5,18 @@ import '../App.css';
 
 const experiences = [
   {
-    role: 'Junior Software Engineer',
-    company: 'Shiwansh Solutions',
-    duration: 'January 2024 - Present',
-    description:
-      'Working as a Full-Stack Developer using .NET Core and React. Responsible for designing and developing modules with React, Redux, Bootstrap, Entity Framework, and LINQ. Involved in debugging, testing, and deployment. Contributed to the development of Admin, Employee, and Employer modules.'
+    role: 'Software Testing',
+    company: 'PHN Technology Pvt. Ltd.',
+    duration: 'May 2023 - July 2023',
+    description: "Skilled Software Manual Tester with hands-on experience testing Android and iOS applications. Proficient in creating and executing test cases, reporting bugs, and ensuring app functionality, usability, and compatibility across mobile platforms. Experienced in regression, functional, and UI testing to ensure high-quality user experiences."
   },
   {
     role: '.NET Developer Intern',
-    company: 'Shiwansh Solutions.',
-    duration: '2023 OCT-DEC',
+    company: 'Shiwansh Solutions',
+    duration: 'July 2024 - Present',
     description:
-      'Built scalable backend APIs using .NET Core and Entity Framework.'
-  }
+      'Working as a Full-Stack Developer using .NET Core and React. Responsible for designing and developing modules with React, Bootstrap, Entity Framework, and SQL. Involved in debugging, testing, and deployment. Contributed to the development of Admin, Employee, and Employer modules.'
+  },
 ];
 
 export default function Experience() {

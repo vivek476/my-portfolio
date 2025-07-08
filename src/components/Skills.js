@@ -6,7 +6,7 @@ const skillCategories = {
   'Programming Languages': ['C#', 'JavaScript', 'HTML', 'CSS', 'Java'],
   'Databases': ['SQL', 'MySQL'],
   'Frameworks': ['React.js', 'ASP.NET', 'Web API', 'Entity Framework Core', '.NET Core', 'Bootstrap'],
-  'Tools': ['Git', 'Visual Studio', 'SQL Server', 'Android Studio'],
+  'Tools': ['Amazon EC2', 'Amazon S3', 'LINQ', 'Git', 'Visual Studio', 'Android Studio'],
 };
 
 export default function Skills() {

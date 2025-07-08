@@ -4,6 +4,7 @@ import {
   FaPhoneAlt,
   FaMapMarkerAlt,
   FaLinkedin,
+  FaGithub,
   FaWhatsapp
 } from 'react-icons/fa';
 import '../App.css';
@@ -42,6 +43,16 @@ function Contact() {
                     rel="noopener noreferrer"
                   >
                     linkedin.com/in/vivek-solanki-8a2828247
+                  </a>
+                </p>
+                <p className="contact-info mb-3">
+                  <FaGithub className="me-2 icon-warning" />
+                  <a
+                    href="https://github.com/vivek476"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    github.com/vivek476
                   </a>
                 </p>
                 <p className="contact-info">

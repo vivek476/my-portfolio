@@ -30,7 +30,7 @@ export default function Home() {
         <h2 className="typing-text mb-4 fs-4">
           <TypeAnimation
             sequence={[
-              'Intern Full-Stack Developer',
+              'Junior Full-Stack Developer',
               2000,
               'Full-Stack Developer | React.js & .NET Core Specialist',
               2000,

@@ -25,7 +25,7 @@ function Contact() {
               <div className="card-body text-start">
                 <p className="contact-info mb-3">
                   <FaEnvelope className="me-2 icon-warning" />
-                  <a href="mailto:avijitgorai8250@gmail.com">viveksolanki1704@gmail.com</a>
+                  <a href="mailto:viveksolanki1704@gmail.com">viveksolanki1704@gmail.com</a>
                 </p>
                 <p className="contact-info mb-3">
                   <FaPhoneAlt className="me-2 icon-warning" />

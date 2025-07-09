@@ -29,7 +29,7 @@ function Contact() {
                 </p>
                 <p className="contact-info mb-3">
                   <FaPhoneAlt className="me-2 icon-warning" />
-                  <a href="tel:+9399506176">+9399506176</a>
+                  <a href="tel:+919399506176">+919399506176</a>
                 </p>
                 <p className="contact-info mb-3">
                   <FaMapMarkerAlt className="me-2 icon-warning"  />

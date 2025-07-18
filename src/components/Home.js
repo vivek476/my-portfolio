@@ -1,7 +1,7 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from 'react-icons/fa';
-import SS_Resume from '../assets/SS_Resume.pdf.pdf'; // Make sure this file exists
+import VivS_Resume from '../assets/VivS_Resume.pdf.pdf'; // Make sure this file exists
 import VivekProfile from '../assets/VivekProfile.jpg.jpg'; // ✅ Your profile picture
 import '../App.css';
 
@@ -46,8 +46,8 @@ export default function Home() {
         </h2>
 
         <a
-          href={SS_Resume}
-          download="SS_Resume.pdf"
+          href={VivS_Resume}
+          download="VivS_Resume.pdf"
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />

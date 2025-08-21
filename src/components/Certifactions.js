@@ -5,9 +5,9 @@ import '../App.css';
 
 const certifications = [
   {
-    title: "ASP.NET Core MVC",
+    title: "Fullstack Developer (React & .NET)",
     issuer: "Shiwansh Solutions",
-    year: "2024",
+    year: "2025",
     description: "Completed end-to-end web app projects using MVC pattern, covering both front-end and back-end development with Entity Framework Core, authentication, and state management."
   },
   {

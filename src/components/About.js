@@ -19,9 +19,9 @@ function About() {
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3">Junior .NET Developer | Full Stack Developer (React & .NET)</h4>
+              <h4 className="text-dark mb-3">.NET Developer | Full Stack Developer (React & .NET)</h4>
               <p className="text-muted">
-                I’m an Junior developer at <strong>Shiwansh Solutions</strong>, where I focus on designing and developing web applications using <strong>.NET Core</strong>, <strong>React.js</strong>, <strong>Bootstrap</strong>, and <strong>SQL</strong>. My work involves building scalable, modular solutions for key features such as Admin, Employee, and Employer modules.
+                I’m an Fullstack Developer at <strong>Shiwansh Solutions</strong>, where I focus on designing and developing web applications using <strong>.NET Core</strong>, <strong>React.js</strong>, <strong>Bootstrap</strong>, and <strong>SQL</strong>. My work involves building scalable, modular solutions for key features such as Admin, Employee, and Employer modules.
               </p>
               <p className="text-muted">
                 I'm also proficient with tools like <strong>Git</strong>, <strong>Amazon EC2</strong>, <strong>LINQ</strong> and have strong foundations in C#, JavaScript, HTML5, and CSS3.

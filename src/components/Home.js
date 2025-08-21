@@ -1,7 +1,8 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from 'react-icons/fa';
-import VivS_Resume from '../assets/VivS_Resume.pdf.pdf'; // Make sure this file exists
+//import VivS_Resume from '../assets/VivS_Resume.pdf.pdf'; // Make sure this file exists
+import VivS_CV from '../assets/VivS_CV.pdf.pdf'; // Make sure this file exists
 import VivekProfile from '../assets/VivekProfile.jpg.jpg'; // ✅ Your profile picture
 import '../App.css';
 
@@ -30,7 +31,7 @@ export default function Home() {
         <h2 className="typing-text mb-4 fs-4">
           <TypeAnimation
             sequence={[
-              'Junior Full-Stack Developer',
+              'Full-Stack Developer',
               2000,
               'Full-Stack Developer | React.js & .NET Core Specialist',
               2000,
@@ -46,12 +47,12 @@ export default function Home() {
         </h2>
 
         <a
-          href={VivS_Resume}
-          download="VivS_Resume.pdf"
+          href={VivS_CV}
+          download="VivS_CV.pdf"
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />
-          Download Resume
+          Download CV
         </a>
 
         <div className="scroll-indicator mt-5" aria-hidden="true">

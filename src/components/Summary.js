@@ -14,7 +14,7 @@ function Summary() {
     >
       <h2 className="section-title mb-4">Summary</h2>
       <p className="summary-text lead">
-        Aspiring Junior .NET Developer with 6 months of practical experience in full-stack development at <strong>Shiwansh Solutions</strong>. Skilled in building and deploying scalable web applications using <strong>.NET Core</strong> and <strong>React</strong>, with a focus on core modules such as Admin, Employee, and Employer. Dedicated to leveraging modern frameworks, clean code principles, and best practices to create efficient, maintainable, and user-centric software solutions.
+        Completed a 1 Year of practical experience in full-stack development at <strong>Shiwansh Solutions</strong>. Skilled in building and deploying scalable web applications using <strong>.NET Core</strong> and <strong>React</strong>, with a focus on core modules such as Admin, Employee, and Employer. Dedicated to leveraging modern frameworks, clean code principles, and best practices to create efficient, maintainable, and user-centric software solutions.
       </p>
 
     </motion.section>

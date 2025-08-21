@@ -14,7 +14,7 @@ const projectList = [
   },
   {
     title: 'JOB PORTAL SYSTEM',
-    duration: 'July 2024 – Sept 2024',
+    duration: 'Aug 2024 – Aug 2025',
     company: 'Shiwansh Solutions',
     description:
       'An online platform that connects job seekers with employers. Job seekers can register, search, and apply for jobs. Employers post job openings and manage hiring. Built for efficient two-way interaction.',
